@@ -6,9 +6,18 @@ This repository reflects my learning journey to master the depth of the reinforc
 
 # Tech Stack
 
-* [Python v3.13.0](https://www.python.org/)
+* [Python v3.12.7](https://www.python.org/)
 * [Gymnasium](https://gymnasium.farama.org/)
 * [Numpy](https://numpy.org/)
+
+Installation can be done with:
+```shell
+pyenv install 3.12.7
+pyenv virtualenv 3.12.7 drl
+pyenv local drl
+
+pip3 install gymnasium ipykernel matplotlib moviepy mpl_toolkits.clifford numpy pygame swig torch 
+```
 
 # Materials
 
