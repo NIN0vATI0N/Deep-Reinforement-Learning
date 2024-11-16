@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning
 
-![Intro to RL][https://raw.githubusercontent.com/NIN0vATI0N/Deep-Reinforement-Learning/trunk/assets/intro-to-rl-1.jpg]
+![Intro to RL](https://raw.githubusercontent.com/NIN0vATI0N/Deep-Reinforement-Learning/trunk/assets/intro-to-rl-1.jpg)
 
 This repository accompanies my learnin journey to master the depth of the reinforcement learning field.
 
@@ -18,4 +18,7 @@ This repository accompanies my learnin journey to master the depth of the reinfo
 
 # Credits
 
-Some figures/images are taken from Udacity. Shout out to them and please consider to take their Nano Degree program [Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
+* Some concepts and exercises are taken from Udacity.
+* Some figures/images are taken from Udacity.
+
+Shout out to them and please consider to take their Nano Degree program [Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
