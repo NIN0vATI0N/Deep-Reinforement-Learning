@@ -2,7 +2,7 @@
 
 ![Intro to RL](https://raw.githubusercontent.com/NIN0vATI0N/Deep-Reinforement-Learning/trunk/assets/intro-to-rl-1.jpg)
 
-This repository accompanies my learnin journey to master the depth of the reinforcement learning field.
+This repository reflects my learning journey to master the depth of the reinforcement learning field.
 
 # Tech Stack
 
